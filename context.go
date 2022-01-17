@@ -8,7 +8,6 @@ package php
 // #cgo CFLAGS: -I/usr/include/php/Zend -Iinclude
 //
 // #include <stdlib.h>
-// #include <main/php.h>
 // #include "context.h"
 import "C"
 
